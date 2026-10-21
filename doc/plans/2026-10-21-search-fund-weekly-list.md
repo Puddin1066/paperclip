@@ -43,6 +43,28 @@ Two substitutes already cover the obvious versions of the job:
 
 The open seat is a new searcher who does not yet have an intern and does not want a calling agency.
 
+## Who already does this
+
+The weekly company list is not a new job. A search on 21 October 2026 found these providers. This is not a complete census. One-person shops also post the same offer on Searchfunder.
+
+Done-for-you list and owner contact, sold to searchers:
+
+- Coseek researches the market, calls owners, and books meetings. The published four-week sprint is $4,500.
+- OutSearched builds the target list and runs direct owner outreach for search funds.
+- Caprae Capital's Search as a Service builds the list and contacts owners by phone, email, LinkedIn, and mail, from $1,250 a month plus a success fee.
+- Lended Search monitors listings for $1,000 a month and runs off-market owner outreach for $3,000 a month in one state or $5,000 a month nationally.
+- ColdCalls.ca builds the thesis list and calls owners, at $1 to $1.50 per call, with a stated yearly program cost of about $25,000 to $40,000.
+- DealSeam builds the company universe from public records, attaches sources, then runs email and calling on a quoted retainer.
+- A Searchfunder seller offers a filtered owner list and cold email at $1,995 to set up and $1,995 a month.
+
+Self-serve databases that already turn a buy box into a company list:
+
+- Grata, SourceScrub (now being folded into Grata), and Inven. Inven describes the product as a brief in and a longlist or one-pagers out. Comparison sites report about $10,000 to $60,000 a year. The vendors quote. Those figures are not their published prices.
+- Grata also offers scheduled agent workflows for deal sourcing.
+- PitchBook and Axial cover related parts of the same week. Axial is a marketplace with a success fee. PitchBook is a data terminal.
+
+The list-only, no-call, public-source file is the part interns and these databases already do. The calling firms sell the step after the list. A Paperclip subscription does not have a clear empty seat between those two.
+
 ## Workflow
 
 Stanford's 2014 search-phase guide, which operators still cite, says about 80 percent of the week is proprietary search and about 20 percent is brokers and admin. The slow step is the list: company names, what they do, the owner's name, and a way to contact them. The same guide says not to analyze a company before knowing whether the owner might sell, and to spend 5 to 15 minutes getting ready for a call.
@@ -67,11 +89,11 @@ Identifying sellers for a fee tied to a closed sale is a different business. Law
 - The buyer pool is not Axial's 2,635 new buyers, and it is not the historical 862 funds. It is the recent searching cohort.
 - A multi-thousand-dollar monthly retainer does not fit the published tools budget of a few thousand dollars a year.
 - A long memo with revenue and EBITDA is the wrong deliverable. Those figures are not public, and the search guide says not to write that memo before the owner might sell.
-- The job is not empty. Interns do it for little or no pay, and a calling firm sells research plus calls for $4,500 over four weeks.
+- The job is not empty. Interns do the list for little or no pay. Databases such as Grata, SourceScrub, and Inven turn a buy box into a list. Calling firms sell the list plus owner contact. Named examples include Coseek, OutSearched, Caprae, Lended Search, ColdCalls.ca, and DealSeam.
 
 ## Assumption that held
 
-The slow work is real: build a sourced list, mark public passes, and leave owner-only questions open. A new searcher without an intern can subscribe for that list at a tools-budget price. The public sample list is how the offer sells. Paperclip repeats the list after they subscribe. It does not create the first sale by recruiting on its own.
+The slow work is real, and it is already sold. Interns, company databases, and calling firms cover the list and the calls. A Paperclip subscription for the same file does not have a clear empty seat between them.
 
 ## Sources
 
@@ -88,3 +110,12 @@ The slow work is real: build a sourced list, mark public passes, and leave owner
 - Coseek, what research can show before an owner call: https://www.coseek.com/lower-middle-market-deal-sourcing
 - Docket, public fit does not establish revenue or willingness to sell: https://docket.capital/methods/direct-proprietary-outreach
 - Baker Donelson, factors that point toward broker-dealer registration, including transaction-based pay and identifying buyers or sellers: https://www.bakerdonelson.com/unregistered-finders-and-those-who-engage-them-are-playing-with-fire-what-you-need-to-know-about-broker-dealer-compliance
+- OutSearched, search-fund sourcing: https://outsearched.com/who-we-serve/search-funds/
+- Caprae Capital, Search as a Service, from $1,250 a month plus a success fee: https://capraecapital.com/services/search-as-a-service/
+- Lended Search, listing monitor and off-market plans: https://www.lendedsearch.com/
+- ColdCalls.ca, thesis list and owner calling: https://coldcalls.ca/ma-deal-sourcing
+- DealSeam, managed outreach from a public-records universe: https://dealseam.com/managed-services
+- Searchfunder post, filtered owner list and cold email pricing: https://searchfunder.com/post/off-market-owner-outreach-for-acquirers-and-ma-advisors
+- Grata, agentic deal sourcing: https://grata.com/features/deal-sourcing
+- Inven, brief in and a longlist or one-pagers out: https://www.inven.ai/articles/deal-sourcing-platform-comparison-inven-vs-grata
+- Prospeo, third-party price reports for Grata, Inven, and SourceScrub: https://prospeo.io/s/deal-sourcing-platforms
