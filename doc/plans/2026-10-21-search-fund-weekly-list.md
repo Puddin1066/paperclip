@@ -6,7 +6,7 @@ Status: concept note for a possible service. This is not a Paperclip product cha
 
 ## Concept
 
-A new searcher pays a subscription and gets a Paperclip company that already does one job. Every Monday it rebuilds their company list from public sources, under their buy box and their exclusion list. They edit those two inputs. They receive a file. They do not hire agents, pick adapters, or learn the control plane.
+A new searcher pays a subscription and gets a Paperclip company that already does one job. Once a week it rebuilds their company list from public sources, under their buy box and their exclusion list. They edit those two inputs. They receive a file of companies. They do not hire agents, pick adapters, or learn the control plane.
 
 The data is public: association directories, maps, state business filings, and the company website. There is no proprietary database to build. The customization is the buy box and the exclusion list.
 
@@ -16,7 +16,7 @@ The same run is the marketing. One published buy box produces one public sample 
 
 The subscription has to sit on the tools line these searchers already publish, about $2,000 to $10,000 a year. That is roughly $170 to $400 a month, or one paid list in the first month and the same price if they keep it. A $1,500 to $2,500 monthly retainer is a salary decision, and this concept does not ask for that.
 
-Paperclip is the engine under that subscription. The searcher buys the Monday file.
+Paperclip is the engine under that subscription. The searcher buys the weekly file of companies.
 
 ## Buyer
 
@@ -28,7 +28,7 @@ Salary in that budget is commonly described at $100,000 to $150,000 a year. One 
 
 A self-funded searcher, working from roughly $100,000 to $150,000 of their own money, is a poor fit. A private-equity fund is also the wrong buyer. A fund already has associates.
 
-Practitioner budgets put the whole outreach-and-software line at about $2,000 to $10,000 a year. A retainer of $1,500 to $2,500 a month would be a salary-sized decision, not a software purchase. The subscription in the concept section stays inside that yearly tools line. The first charge can be a single list. The renewal is the same Monday file.
+Practitioner budgets put the whole outreach-and-software line at about $2,000 to $10,000 a year. A retainer of $1,500 to $2,500 a month would be a salary-sized decision, not a software purchase. The subscription in the concept section stays inside that yearly tools line. The first charge can be a single list. The renewal is the same weekly file.
 
 ## Market
 
@@ -56,7 +56,7 @@ One paid week:
 3. A person opens a sample of the links before the file goes out.
 4. The searcher makes the calls. The service does not email owners and does not take a fee if the searcher later buys a company.
 
-A second paid week is the same file with the new exclusions added. That repeat is where Paperclip fits: a Monday run, a human approves the batch, and a budget cap stops the run. Owner contact stays off the board.
+A second paid week is the same file with the new exclusions added. That repeat is where Paperclip fits: a weekly run, a human approves the batch, and a budget cap stops the run. Owner contact stays off the board.
 
 ## Legal boundary
 
