@@ -60,7 +60,7 @@ See [`rules/README.md`](rules/README.md) for rule authoring and Greptile setup.
 
 ## 4. Dev Setup (Auto DB)
 
-Use embedded PGlite in dev by leaving `DATABASE_URL` unset.
+Leave `DATABASE_URL` unset. `pnpm dev` starts embedded PostgreSQL and stores it under `~/.paperclip/instances/default/db/`.
 
 ```sh
 pnpm install
@@ -72,6 +72,8 @@ This starts:
 - API: `http://localhost:3100`
 - UI: `http://localhost:3100` (served by API server in dev middleware mode)
 
+The first `pnpm dev` in a fresh checkout also builds the native Paperclip runner (Rust 1.97.1 via `packages/paperclip-runner/rust-toolchain.toml`). Later starts reuse that build. `pnpm dev` is idempotent when a matching dev server is already running.
+
 Quick checks:
 
 ```sh
@@ -82,8 +84,16 @@ curl http://localhost:3100/api/companies
 Reset local dev DB:
 
 ```sh
-rm -rf data/pglite
+rm -rf ~/.paperclip/instances/default/db
 pnpm dev
+```
+
+### Cursor Cloud
+
+Node.js must be 24.11 or newer, and pnpm must be 9.15.4 (`packageManager`). The Cloud Agent environment installs Node.js 24.22.1 and that pnpm under `/usr/local/bin`, and selects the same Node with nvm. If `node -v` is older than 24.11, prepend that directory before install, dev, test, or build commands:
+
+```sh
+export PATH="/usr/local/bin:$PATH"
 ```
 
 ## 5. Core Engineering Rules
