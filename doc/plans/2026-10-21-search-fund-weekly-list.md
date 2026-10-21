@@ -2,9 +2,21 @@
 
 Date: 2026-10-21
 
-Status: research note for a possible service. This is not a Paperclip product change.
+Status: concept note for a possible service. This is not a Paperclip product change.
 
-Paperclip's job in this note is a Monday rerun of a paid list, with a budget and a human approval. The customer pays for the list. The customer does not pay for Paperclip.
+## Concept
+
+A new searcher pays a subscription and gets a Paperclip company that already does one job. Every Monday it rebuilds their company list from public sources, under their buy box and their exclusion list. They edit those two inputs. They receive a file. They do not hire agents, pick adapters, or learn the control plane.
+
+The data is public: association directories, maps, state business filings, and the company website. There is no proprietary database to build. The customization is the buy box and the exclusion list.
+
+Two agents do the work. One gathers the rows. One writes each row as "pass," with the public fact that removed it, or "keep," with the question only the owner can answer. Paperclip schedules the run, caps the spend, and stops for a human to check a sample of the links before the file goes out. The service does not email owners and does not take a fee if a company is later bought.
+
+The same run is the marketing. One published buy box produces one public sample list. A searcher who wants that list for their own buy box subscribes. The sample is the pitch. The agents do not recruit.
+
+The subscription has to sit on the tools line these searchers already publish, about $2,000 to $10,000 a year. That is roughly $170 to $400 a month, or one paid list in the first month and the same price if they keep it. A $1,500 to $2,500 monthly retainer is a salary decision, and this concept does not ask for that.
+
+Paperclip is the engine under that subscription. The searcher buys the Monday file.
 
 ## Buyer
 
@@ -16,7 +28,7 @@ Salary in that budget is commonly described at $100,000 to $150,000 a year. One 
 
 A self-funded searcher, working from roughly $100,000 to $150,000 of their own money, is a poor fit. A private-equity fund is also the wrong buyer. A fund already has associates.
 
-Practitioner budgets put the whole outreach-and-software line at about $2,000 to $10,000 a year. A retainer of $1,500 to $2,500 a month would be a salary-sized decision, not a software purchase. The price that matches the budget is a one-time list, a few hundred dollars to about $1,000, bought because it saves a week of list-building.
+Practitioner budgets put the whole outreach-and-software line at about $2,000 to $10,000 a year. A retainer of $1,500 to $2,500 a month would be a salary-sized decision, not a software purchase. The subscription in the concept section stays inside that yearly tools line. The first charge can be a single list. The renewal is the same Monday file.
 
 ## Market
 
@@ -59,7 +71,7 @@ Identifying sellers for a fee tied to a closed sale is a different business. Law
 
 ## Assumption that held
 
-The slow work is real: build a sourced list, mark public passes, and leave owner-only questions open. A new searcher without an intern can pay once for that list. Paperclip repeats the list after the second payment. It does not create the first sale.
+The slow work is real: build a sourced list, mark public passes, and leave owner-only questions open. A new searcher without an intern can subscribe for that list at a tools-budget price. The public sample list is how the offer sells. Paperclip repeats the list after they subscribe. It does not create the first sale by recruiting on its own.
 
 ## Sources
 
